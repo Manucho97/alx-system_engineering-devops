@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+# display listening sockets, PID and name
+
+netstat -l -p
