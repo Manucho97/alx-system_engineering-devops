@@ -1,1 +1,1 @@
-this is my firat readme
+Shell permissions projects from the ALX program

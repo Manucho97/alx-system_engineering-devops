@@ -1,1 +1,1 @@
-this is my readme
+Projects on Shell variables and shell expansions
